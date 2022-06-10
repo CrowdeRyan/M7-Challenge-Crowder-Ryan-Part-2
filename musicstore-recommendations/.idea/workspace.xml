@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38acffa3-6ea0-43fc-9384-38175635bc02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Controller/AlbumRecommendationsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Controller/ArtistRecommendationsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Controller/ControllerExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Controller/LabelRecommendationsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Controller/TrackRecommendationsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Exception/BadIdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Model/AlbumRecommendations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Model/ArtistRecommendations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Model/CustomErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Model/LabelRecommendations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Model/TrackRecommendations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/MusicstoreRecommendationsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Repository/AlbumRecommendationsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Repository/ArtistRecommendationsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Repository/LabelRecommendationsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/musicstorerecommendations/Repository/TrackRecommendationsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/musicstorerecommendations/Controller/AlbumRecommendationsControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/musicstorerecommendations/Controller/ArtistRecommendationsControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/musicstorerecommendations/Controller/LabelRecommendationsControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/musicstorerecommendations/Controller/TrackRecommendationsControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/musicstorerecommendations/MusicstoreRecommendationsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AFzZCv1WuHKeUmcKH0UbBkAoEF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/const/Documents/BootCamp/SMU/Class/Week 7 - Project 2/M7-Challenge-Crowder-Ryan/musicstore-recommendations/src/test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\const\Documents\BootCamp\SMU\Class\Week 7 - Project 2\M7-Challenge-Crowder-Ryan\musicstore-recommendations\src\test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\const\Documents\BootCamp\SMU\Class\Week 7 - Project 2\M7-Challenge-Crowder-Ryan\musicstore-recommendations\db" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company.musicstorerecommendations.Controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MusicstoreRecommendationsApplicationTests">
+    <configuration name="AlbumRecommendationsControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="musicstore-recommendations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.musicstorerecommendations.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.musicstorerecommendations.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.company.musicstorerecommendations.Controller.AlbumRecommendationsControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtistRecommendationsControllerTest.shouldCreateNewArtistRecommendationsOnPostRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="musicstore-recommendations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.musicstorerecommendations.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.musicstorerecommendations.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.company.musicstorerecommendations.Controller.ArtistRecommendationsControllerTest" />
+      <option name="METHOD_NAME" value="shouldCreateNewArtistRecommendationsOnPostRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabelRecommendationsControllerTest,shouldResponseWithStatus404IfIdIsNotFound and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="musicstore-recommendations" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.company.musicstorerecommendations.Controller.LabelRecommendationsControllerTest,shouldResponseWithStatus404IfIdIsNotFound" />
+        <pattern testClass="com.company.musicstorerecommendations.Controller.LabelRecommendationsControllerTest,shouldTryGetByIdAndReturn404StatusCode" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicstoreRecommendationsApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="musicstore-recommendations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.musicstorerecommendations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.musicstorerecommendations" />
+      <option name="MAIN_CLASS_NAME" value="com.company.musicstorerecommendations.MusicstoreRecommendationsApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackRecommendationsControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="musicstore-recommendations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.musicstorerecommendations.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.musicstorerecommendations.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.company.musicstorerecommendations.Controller.TrackRecommendationsControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MusicstoreRecommendationsApplicationTests" />
+        <item itemvalue="JUnit.LabelRecommendationsControllerTest,shouldResponseWithStatus404IfIdIsNotFound and 1 more" />
+        <item itemvalue="JUnit.TrackRecommendationsControllerTest" />
+        <item itemvalue="JUnit.AlbumRecommendationsControllerTest" />
+        <item itemvalue="JUnit.ArtistRecommendationsControllerTest.shouldCreateNewArtistRecommendationsOnPostRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38acffa3-6ea0-43fc-9384-38175635bc02" name="Changes" comment="" />
+      <created>1654620176720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654620176720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
